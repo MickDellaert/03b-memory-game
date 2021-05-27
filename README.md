@@ -1,7 +1,19 @@
-# 03-memory-game
 # 03b-memory-game
 
-Started a new version after I got stuck in my previous attempt trying to use utf-8 emojis and bootstrap. I discovered emojis have a build-in margin like a font has. This version is based on a tutorial, but I understand the code, and I would like to add some features like the matched cards staying faced forward and wrong matches flipping back. For now, it's functional with prompts.
+![](img/Memoy-game-screenshot.png)
+
+Building a memory game in Javascript:
+* Using arrays to change the cards shown in the DOM
+* Adding EventListeners, appending elements  
+* Using CSS to create a flip effect
+* Using a loop to cycle through the cards
+* Showing succesful matches with prompts
+
+
+Link to the memory game:
+https://mickdellaert.github.io/03b-memory-game/
+
+---
 
 # Title: Memory game
 
